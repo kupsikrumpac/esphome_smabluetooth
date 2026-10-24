@@ -1,6 +1,7 @@
 {
   "name": "smabluetooth_solar",
-  "dependencies": [
+  "dependencies": [],
+  "esp_idf_dependencies": [
     "bt",
     "esp_common"
   ]
